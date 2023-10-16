@@ -6,3 +6,7 @@
 
 2023年10月12日
 - Heap sort.py
+
+2023年10月16日
+- 912 Sort an Array.py (All methods)
+- Bucket sort.py
