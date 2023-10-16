@@ -10,4 +10,5 @@
 2023年10月16日
 - 912 Sort an Array.py (All methods)
 - Bucket sort.py
-- radix sort 基数排序.py
+- Radix sort 基数排序.py
+- Counting sort 计数排序.py
